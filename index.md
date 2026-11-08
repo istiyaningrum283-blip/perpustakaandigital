@@ -13,5 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [8. Psikologi Keluarga](ebook/8. Psikologi Keluarga.pdf) - Riana Sahrani (2026)
 10. [9. Pengantar Psikologi Umum](ebook/9. Pengantar Psikologi Umum.pdf) - Kandi (2023)
 11. [10. Petualangan si Kancil](ebook/10. Petualangan si Kancil.pdf) - Prih Suharto (2002)
+12. [11. Ringkasan Materi UGC](ebook/11. Ringkasan Materi UGC.pdf)- Istiya Ningrum (2026)
 ---
 Powered by GitHub Pages
