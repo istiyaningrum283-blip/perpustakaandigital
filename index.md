@@ -10,5 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [5. Sejarah Nasional Indonesia](ebook/5. Sejarah Nasional Indonesia.pdf) - Manarfa, dkk (2024)
 7. [6. Konsep Dasar Ekonomi](ebook/6. Konsep Dasar Ekonomi.pdf) - Rahmatullah, dkk (2018)
 8. [7. Psikologi Kepribadian Jilid 1](ebook/7. Psikologi Kepribadian Jilid 1.pdf) - Rr. Hesti Setyodyah Lestari (2024)
+9. [8. Psikologi Keluarga](ebook/8. Psikologi Keluarga) - Riana Sahrani (2026)
 ---
 Powered by GitHub Pages
