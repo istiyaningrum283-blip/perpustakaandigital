@@ -9,5 +9,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [4. Cerita Bergambar Pajak Kita Edisi Fabel](ebook/4. Cerita Bergambar Pajak Kita Edisi Fabel.pdf) - Direktorat Penyuluhan, dkk (2014)
 6. [5. Sejarah Nasional Indonesia](ebook/5. Sejarah Nasional Indonesia.pdf) - Manarfa, dkk (2024)
 7. [6. Konsep Dasar Ekonomi](ebook/6. Konsep Dasar Ekonomi.pdf) - Rahmatullah, dkk (2018)
+8. [7. Psikologi Kepribadian Jilid 1](ebook/7. Psikologi Kepribadian Jilid 1.pdf) - Rr. Hesti Setyodyah Lestari (2024)
 ---
 Powered by GitHub Pages
