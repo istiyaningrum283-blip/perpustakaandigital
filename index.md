@@ -1,5 +1,5 @@
 # Digital Library
-Selamat Datang di Perpustakaan Digital
+Selamat Datang di Perpustakaan Digital Nama: Istiya Ningrum NIM: 13040124120022 Kelas A
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 [laporan praktikum](ebook/laporan praktikum.pdf) – Istiya (2026) 
